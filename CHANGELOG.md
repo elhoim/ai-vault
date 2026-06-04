@@ -1,3 +1,9 @@
+## [3.5.1](https://github.com/dotCipher/ai-vault/compare/v3.5.0...v3.5.1) (2026-06-04)
+
+### Bug Fixes
+
+- **chatgpt:** improve archive resilience and pagination ([f59e21b](https://github.com/dotCipher/ai-vault/commit/f59e21bd28f010fc6abbe95c13636142a39abd20))
+
 # [3.5.0](https://github.com/dotCipher/ai-vault/compare/v3.4.0...v3.5.0) (2026-04-28)
 
 ### Bug Fixes
